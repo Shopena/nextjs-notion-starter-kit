@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: '@shopena__taiwan',
-  github: 'adad40123@gmail.com',
-  linkedin: 'adad40123@gmail.com',
+  github: 'Shopena',
+  linkedin: 'Shopena',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
