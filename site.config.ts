@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '@shopena__taiwan',
   github: 'Shopena',
-  linkedin: 'https://github.com/Shopena/nextjs-notion-starter-kit/blob/main/site.config.ts',
+  linkedin: '蔡証宇 (Shopena)',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
